@@ -5,16 +5,16 @@ A simple Todo application built with Vue.js. Allows users to add, mark as comple
 ## Features:
 
 Add new tasks. </br>
-Mark tasks as completed /n
-Delete tasks /n
+Mark tasks as completed. </br>
+Delete tasks. </br>
 
 ## Technologies:
 
-Vue.js /n
-Tailwind CSS /n
+Vue.js </br>
+Tailwind CSS </br>
 
 ## Usage:
 
-1.Clone the repository. /n
-2.Install dependencies (npm install). /n
-3.Run the development server (npm run serve). /n
+1.Clone the repository. </br>
+2.Install dependencies (npm install). </br>
+3.Run the development server (npm run serve). </br>
