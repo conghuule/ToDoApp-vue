@@ -4,7 +4,7 @@ A simple Todo application built with Vue.js. Allows users to add, mark as comple
 
 ## Features:
 
-Add new tasks. \n
+Add new tasks. </br>
 Mark tasks as completed /n
 Delete tasks /n
 
